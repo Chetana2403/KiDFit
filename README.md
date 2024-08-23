@@ -40,7 +40,7 @@ To get started with Active Kids Hub, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Chetanar2403/KiDFit/tree/main.git
+   git clone https://github.com/Chetana2403/KiDFit/tree/main.git
 2. **Setup Backend**:
    Configure your server and database as per the provided configuration files.
 3. **Run the Application**:
